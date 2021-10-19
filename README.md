@@ -25,6 +25,10 @@
 
 ![Gambar 6](screenshot/6.png)
 
+## OUTPUT
+
+![Gambar 7](screenshot/7.png)
+
 - SELESAI 
 ## Selamat Mencoba
 ## Terima Kasih :)
